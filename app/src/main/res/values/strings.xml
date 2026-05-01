@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Myproject</string>
+    <string name="title_registration">Student Registration</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_mobile">Mobile Number</string>
+    <string name="btn_capture">Capture Photo</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_go_to_login">Go to Login</string>
+    <string name="content_description_photo">Student Photo</string>
+    <string name="title_login">Login</string>
+    <string name="btn_login">Login</string>
+    <string name="title_profile">Student Profile</string>
+    <string name="btn_logout">Logout</string>
+    <string name="msg_all_fields">Please enter all fields and capture photo</string>
+    <string name="msg_reg_success">Registered successfully</string>
+    <string name="msg_reg_failed">Registration failed. Username may exist.</string>
+    <string name="msg_login_success">Login successful</string>
+    <string name="msg_invalid_login">Invalid Login</string>
+    <string name="msg_no_data">No data found</string>
+    <string name="msg_cam_denied">Camera permission denied</string>
+</resources>
