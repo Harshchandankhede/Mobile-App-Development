@@ -1,21 +1,60 @@
-# Student Profile Management App
+# 📱 Mobile Application Development Lab Experiments
 
-A professional Android application for managing student profiles with integrated camera functionality and local SQLite storage.
+## 👨‍🎓 Student Details
+- Name: Harsh Pravin Chandankhede  
+- Roll No: 41  
+- PRN: EN23219227  
 
-## 📱 Features
-- **User Registration**: Secure registration with username, password, email, and mobile.
-- **Camera Integration**: Capture student photos directly within the app.
-- **SQLite Database**: Local storage for all student details and images.
-- **Secure Login**: Authentication system to access profiles.
-- **Profile Dashboard**: View captured data and images.
+---
 
-## 🛠️ Tech Stack
-- **Language**: Java
-- **Database**: SQLite
-- **UI**: Android XML (Material Design)
-- **Tools**: Android Studio, Camera API
+## 📘 Experiments List
 
-## 🚀 Getting Started
-1. Clone the repository.
-2. Open in Android Studio.
-3. Build and run on an emulator or physical device.
+### 🔹 Experiment 1
+Study of Android Basics
+
+### 🔹 Experiment 2
+Installation and Configuration of Android Studio
+
+### 🔹 Experiment 3
+Activities and Fragments
+
+### 🔹 Experiment 4
+Android Layouts
+
+### 🔹 Experiment 5
+Implicit and Explicit Intents
+
+### 🔹 Experiment 6
+UI Controls and Event Handling
+
+### 🔹 Experiment 7
+Spinner, Alert, Popup, Toast
+
+### 🔹 Experiment 8
+Menus (Options, Context, Popup)
+
+### 🔹 Experiment 9
+Notifications
+
+### 🔹 Experiment 10
+Internal Storage (File Handling)
+
+### 🔹 Experiment 11
+SQLite Database Operations
+
+---
+
+## 🛠️ Technologies Used
+- Java  
+- Android Studio  
+- SQLite Database  
+
+---
+
+## 🎯 Objective
+To understand Android development concepts through practical experiments.
+
+---
+
+## 📌 Conclusion
+All experiments were successfully implemented and tested.
